@@ -1,4 +1,6 @@
-The **final application** is a **real-time system monitoring dashboard** built with **Streamlit**. Here's a summary of how it works:
+This is a **real-time system monitoring dashboard** built with **Streamlit**. 
+
+Here's a summary of how it works:
 
 ### 🚀 **Application Flow**
 
