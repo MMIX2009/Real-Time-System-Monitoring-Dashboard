@@ -37,4 +37,4 @@ Here's a summary of how it works:
 - Open the dashboard with **`streamlit run app.py`** locally.  
 - Access the dashboard via a **URL** when deployed to Streamlit Cloud.
 
-Would you like suggestions for optimization or additional features? 😊
+
